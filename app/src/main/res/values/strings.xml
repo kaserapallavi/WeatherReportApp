@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WeatherReportApp</string>
+    <string name="city_name">City : Navi Mumbai</string>
+</resources>
